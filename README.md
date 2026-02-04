@@ -64,11 +64,12 @@ We built a **single-user 3D virtual classroom** environment in Unity, which allo
 
 ---
 
-## 👨‍💻 Developed By
 
-**Annavarapu Ganesh**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/annavarapu-ganesh-4159732a5)  
-📧 annavarapuganesh45@gmail.com
+## 👥 Team – Hack Street Boys
+
+- **Annavarapu Ganesh**  
+- **Sathwik Chava**  
+- **Mallisetty Venkata Mourya Goud**
 
 ---
 
